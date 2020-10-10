@@ -1,0 +1,4 @@
++ tìm hiểu về ngôn ngữ php
++ sử dụng model MVC để thiết kế hệ thống
++ Phân tích thiết kế hệ thống bao gồm : use case diagram , ERD diagram , class diagram
++ Thiết kế và xây dựng cơ sở dữ liệu y theo  ERD diagram 
